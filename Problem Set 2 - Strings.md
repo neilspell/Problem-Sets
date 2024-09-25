@@ -1,8 +1,8 @@
 **Python Problem Set 2
 **Introduction to Python – Strings
 
-Note: complete all solutions in Thonny and save to your OneDrive. Solutions to be uploaded into the correct page in OneNote
-Hint: to replace a part of a string use string.replace(x,y)
+Note: complete all solutions in Thonny and save to your OneDrive. Solutions to be uploaded into the correct page in OneNote\
+Hint: to replace a part of a string use string.replace(x,y)\
 Hint: use the Python Reference guide
 
 1.	Write a program to do the following:\
