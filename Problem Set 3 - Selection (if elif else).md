@@ -11,7 +11,7 @@ Menu
 3.	Design and Technology
 4.	Exit
 Please enter your choice:
-The user then enters a choice and the program prints a message such as “You chose History”. If they choose option 4, the program prints “Goodbye”/
+The user then enters a choice and the program prints a message such as “You chose History”. If they choose option 4, the program prints “Goodbye”\
 
 2.	Write a program to simulate the throw of 2 dice (each between 1 and 6.  Print the numbers representing the two throws.
 
