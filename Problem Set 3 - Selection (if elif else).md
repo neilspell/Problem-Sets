@@ -9,7 +9,7 @@ Menu
 1.	Music
 2.	History
 3.	Design and Technology
-4.	Exit
+4.	Exit\
 Please enter your choice:
 The user then enters a choice and the program prints a message such as “You chose History”. If they choose option 4, the program prints “Goodbye”<br>
 
