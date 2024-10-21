@@ -3,7 +3,8 @@
 **Introduction to Python – While loops**
 
 Note: complete all solutions in Thonny and save to your OneDrive. Solutions to be uploaded into the correct page in OneNote
-Hint: use the Python Reference guide
+
+##Hint: use the Python Reference guide
 
 1.	Set a total to 0 to start with. While the number is 50 or less, ask the user to input a number. Add that number to the total and print the message “The total is [total]”. Stop the loop when the total is over 50.
    
