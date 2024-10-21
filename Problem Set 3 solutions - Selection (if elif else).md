@@ -3,7 +3,7 @@
 ```
 
 # selection - if/else
-while loop
+#while loop
 while True:
     print("Menu")
     print("1. Music")
