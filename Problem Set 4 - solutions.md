@@ -1,4 +1,5 @@
-***Problem Set 4***
+# **Problem Set 4**
+**Question 1**
 
 ```python
 total = 0
@@ -25,3 +26,4 @@ while total <= 50:
 
 print("The total is over 50. Loop stopped.")
 ````
+**Question 2**
