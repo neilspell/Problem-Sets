@@ -12,3 +12,21 @@ Note: complete all solutions in Thonny and save to your OneDrive. Solutions to b
 (a)	Perform the integer division of 40 by 11
 (b)	Calculate 210
 (c)	Find the remainder when 40 is divided by 11
+
+7.	Ask the user to enter their age in years and calculate their age in months. Display the result in a sentence like:
+“You are XXXX months old.”
+8.	Prompt the user to enter the length and width of a rectangle in cm and calculate the area.
+Display the result as:
+“The area of your rectangle is XXX cm^2.”
+Covert these measurements to metres and display the area result now as :
+“The area of your rectangle is XXX m^2
+9.	Ask the user to enter a temperature in Celsius and convert it to Fahrenheit using the formula:
+F = C × 9/5 + 32
+“Display the result as XX degress Celsius is equal to XX degress Fahrenheit”
+10.	Ask the user to enter the principal amount, rate of interest, and time in years.
+Calculate the simple interest using the formula:
+Interest = (Principal × Rate × Time) / 100
+11.	Ask the user to enter the price of an item and calculate the total cost including 23% VAT.
+Display the result as:
+“The total cost including VAT is €XXXX.”
+
