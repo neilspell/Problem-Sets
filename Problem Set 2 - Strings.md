@@ -13,6 +13,7 @@ d.	Convert the original string to uppercase and assign it to proverbUpper
 e.	Find the number of characters in the string
 f.	Display the results of all these operations as well as the original string
 
+
 **Question 2:**
 a. Assign the string "Learning Python is fun and rewarding" to the variable sentence.
 b. Extract the word "Python" from the string using slicing and assign it to language.
