@@ -5,7 +5,8 @@ Note: complete all solutions in Thonny and save to your OneDrive. Solutions to b
 Hint: use the Python Reference guide\
 \
 **1.	Write a program to display the following menu of options:**
-\Menu
+\
+Menu
 1.	Music
 2.	History
 3.	Design and Technology
