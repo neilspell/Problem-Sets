@@ -2,7 +2,7 @@
 **Introduction to Python – Selection (if/elif/else)**
 
 Note: complete all solutions in Thonny and save to your OneDrive. Solutions to be uploaded into the correct page in OneNote
-Hint: use the Python Reference guide
+Hint: use the Python Reference guide\
 **1.	Write a program to display the following menu of options:**
 Menu
 1.	Music
