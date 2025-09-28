@@ -5,7 +5,7 @@ Note: complete all solutions in Thonny and save to your OneDrive. Solutions to b
 Hint: use the Python Reference guide\
 \
 **1.	Write a program to display the following menu of options:**
-Menu
+\Menu
 1.	Music
 2.	History
 3.	Design and Technology
@@ -15,7 +15,7 @@ The user then enters a choice and the program prints a message such as “You ch
 \
 \
 **2.	Write a program to simulate the throw of 2 dice (each between 1 and 6)**.
-  Print the numbers representing the two throws.
+  \Print the numbers representing the two throws.
 
 If the numbers on the two dice are not equal, the player’s score is the sum. Print the score
 
